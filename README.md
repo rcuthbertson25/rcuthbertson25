@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student at Penn State
 --------------------------------------
 
-I've been coding for 4+ years and am currently a Junior at Pennsylvania State University. Interested in becoming a full-stack developer.
+I've been coding for 4+ years and am currently a Senior at Pennsylvania State University. Interested in becoming a full-stack developer.
 
 * 🌍  I'm based in State College, PA
 * ✉️  You can contact me at [rfc5528@psu.edu](mailto:rfc5528@psu.edu)
