@@ -26,6 +26,3 @@ I've been coding for 4+ years and am currently a Junior at Pennsylvania State Un
 
 <div width="100%" align="center"><a href="https://github.com/rcuthbertson25/Blackjack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rcuthbertson25&repo=Blackjack&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/rcuthbertson25/FlexVision-Fitness" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rcuthbertson25&repo=FlexVision-Fitness&title_color=000000&text_color=ffffff&icon_color=000000&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-###Topics Learned
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66986516ff02ffb66905c10e?variant=dark)](https://roadmap.sh)
